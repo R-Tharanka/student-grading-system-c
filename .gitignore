@@ -1,0 +1,88 @@
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Header# Text backup files
+*.bak
+*~
+
+# Class report file (can be regenerated)
+class_report.txt
+
+# Project specific files to ignore
+requirements
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+student_grading_system
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# VS Code files
+.vscode/*
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/c_cpp_properties.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Text backup files
+*.bak
+*~
+
+# Class report file (can be regenerated)
+class_report.txt
+
+
+requirements
